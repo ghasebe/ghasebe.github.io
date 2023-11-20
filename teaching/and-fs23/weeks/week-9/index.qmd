@@ -7,9 +7,9 @@ sheet: 8
 
 | Title         | File |
 |---------------|:----:|
-| Sheet 8 Notes |      |
-| Lesson Slides |      |
-| DP Slides     |      |
+| Sheet 8 Notes | [PDF](notes-s08.pdf)     |
+| Lesson Slides | [PDF](w9.pdf)     |
+| DP Slides     | [PDF](dp-lps.pdf)     |
 | LPS Description | [PDF](lps.pdf)     |
 
 # LPS Code 

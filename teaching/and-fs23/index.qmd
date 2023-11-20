@@ -22,10 +22,8 @@ page-layout: article
 title-block-banner: false 
 comments:
   giscus: 
-    repo: quarto-dev/quarto-docs
+    repo: ghasebe/ghasebe.github.io
 ---
-
-[Res](resources/index.qmd)
 
 ```{=html}
 <ul class="nav nav-tabs" role="tablist">
@@ -43,7 +41,7 @@ comments:
     <div class="dropdown-menu" style="">
       <!-- <h6 class="dropdown-header">Dropdown header</h6> -->
       <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1hv6igADxTTWuZSEslLlhTpPd7wd41HlYvXcbLQ6VRq8/edit?usp=sharing">Groups</a>
-      <a class="dropdown-item" href="#">Resources</a>
+      <a class="dropdown-item" href="https://ghasebe.github.io/teaching/and-fs23/resources/">Resources</a>
       <a class="dropdown-item" href="https://cadmo.ethz.ch/education/lectures/HS23/DA/index.html">Course Website</a>
       <a class="dropdown-item" href="https://moodle-app2.let.ethz.ch/auth/shibboleth/login.php">Moodle</a>
       <!-- <div class="dropdown-divider"></div> -->
