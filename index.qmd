@@ -1,0 +1,20 @@
+---
+# title: "ghasebe"
+# listing:
+#   contents: posts
+#   sort: "date desc"
+#   type: default
+#   categories: true
+#   sort-ui: false
+#   filter-ui: false
+page-layout: article 
+# title-block-banner: true
+---
+
+Hi, I'm Georg!👋🏼
+
+I'm a BSc computer science student and teaching assistant at ETH Zurich.
+
+Contact me at `georg dot hasebe at inf dot ethz dot ch`.
+
+This website was made using [Quarto](https://quarto.org).

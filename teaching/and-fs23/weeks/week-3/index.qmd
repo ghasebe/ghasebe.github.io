@@ -1,0 +1,11 @@
+---
+title: "Week 3"
+date: "2023-10-09"
+published-title: "" 
+sheet: 2
+---
+
+| Title  | File |
+|--------|:----:|
+| Notes  | [PDF](notes-s02.pdf)     |
+| Kahoot | [PDF](kahoot-w3.pdf)     |

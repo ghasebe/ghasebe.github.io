@@ -1,0 +1,18 @@
+---
+title: "Week 9"
+date: "2023-11-20"
+published-title: "" 
+sheet: 8
+---
+
+| Title         | File |
+|---------------|:----:|
+| Sheet 8 Notes |      |
+| Lesson Slides |      |
+| DP Slides     |      |
+| LPS Description | [PDF](lps.pdf)     |
+
+# LPS Code 
+```{=html}
+<script src="https://gist.github.com/ghasebe/956a5a0485d55a837818da7af4bc451c.js"></script>
+```

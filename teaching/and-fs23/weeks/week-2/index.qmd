@@ -1,0 +1,10 @@
+---
+title: "Week 2"
+date: "2023-10-02"
+published-title: "" 
+sheet: 1
+---
+
+| Title  | File |
+|--------|:----:|
+| Notes  | [PDF](notes-s01.pdf)     |
