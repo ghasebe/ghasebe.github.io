@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "teaching/and-fs23/index.html",
+    "href": "teaching/and-fs23/index.html",
+    "title": "Algorithms and Data Structures",
+    "section": "",
+    "text": "Res\n\n  \n    Information\n  \n  \n    Example Lesson\n  \n  \n    Credits\n  \n  \n    Links\n    \n      \n      Groups\n      Resources\n      Course Website\n      Moodle\n      \n      \n    \n  \n\n\n  \n    \n    My exercise classes take place on Mondays at 9:15 in ETZ H91. I teach in German.\n    In the Example Lesson tab you can see how I try to structure my exercise classes.\n    \n    Please submit the solutions to the weekly assignments by Monday 9:15 and the peergrading by Tuesday 23:59. One solution per group is sufficient.\n  \n  \n  \n\n\n\nTime\nActivity\n\n\n\n\n09:15 - 09:20\nShort discussion of the previous week’s submissions\n\n\n09:20 - 10:00\nSolving bonus problems\n\n\n10:00 - 10:10\nBreak\n\n\n10:10 - 10:30\nSolving bonus problems\n\n\n10:30 - 10:35\nShort discussion of the bonus questions (e.g. relevance for exams)\n\n\n10:35 - 11:00\nBrief theory recap\n\n\n11:00 - 12:00\nPeergrading, QA and non-bonus questions from 11-12 (on a voluntary basis)\n\n\n\n\n  \n  \n    I would like to thank Sangbeom (Joshua) Park, Maximilian Schlegel, Gent Serifi, Johannes Goettle and Nicholas Scheurenbrand, AnD TAs from previous semesters, who kindly let me use their class material.\n  \n\n\nClass Material\n\n\n\n\n\n\n\nWeek 9\n\n\n\nNov 20, 2023\n\n\n\n\n\n\nSheet\n\n\n8\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 8\n\n\n\nNov 13, 2023\n\n\n\n\n\n\nSheet\n\n\n7\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 7\n\n\n\nNov 6, 2023\n\n\n\n\n\n\nSheet\n\n\n6\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 6\n\n\n\nOct 30, 2023\n\n\n\n\n\n\nSheet\n\n\n5\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 5\n\n\n\nOct 23, 2023\n\n\n\n\n\n\nSheet\n\n\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 4\n\n\n\nOct 16, 2023\n\n\n\n\n\n\nSheet\n\n\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\n\nOct 9, 2023\n\n\n\n\n\n\nSheet\n\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\n\nOct 2, 2023\n\n\n\n\n\n\nSheet\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\n\nSep 25, 2023\n\n\n\n\n\n\nSheet\n\n\n0\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/and-fs23/weeks/week-8/index.html",
+    "href": "teaching/and-fs23/weeks/week-8/index.html",
+    "title": "Week 8",
+    "section": "",
+    "text": "Title\nFile\n\n\n\n\nNotes\nPDF\n\n\nSlides\nPDF\n\n\nKahoot\nPDF"
+  },
+  {
+    "objectID": "teaching/and-fs23/weeks/week-6/index.html",
+    "href": "teaching/and-fs23/weeks/week-6/index.html",
+    "title": "Week 6",
+    "section": "",
+    "text": "Title\nFile\n\n\n\n\nNotes\nPDF\n\n\nSlides\nPDF\n\n\nAVL Rotations\nPDF"
+  },
+  {
+    "objectID": "teaching/and-fs23/weeks/week-9/index.html",
+    "href": "teaching/and-fs23/weeks/week-9/index.html",
+    "title": "Week 9",
+    "section": "",
+    "text": "Title\nFile\n\n\n\n\nSheet 8 Notes\n\n\n\nLesson Slides\n\n\n\nDP Slides\n\n\n\nLPS Description\nPDF\n\n\n\n\nLPS Code"
+  },
+  {
+    "objectID": "teaching/and-fs23/weeks/week-2/index.html",
+    "href": "teaching/and-fs23/weeks/week-2/index.html",
+    "title": "Week 2",
+    "section": "",
+    "text": "Title\nFile\n\n\n\n\nNotes\nPDF"
+  },
+  {
+    "objectID": "teaching/and-fs23/weeks/week-4/index.html",
+    "href": "teaching/and-fs23/weeks/week-4/index.html",
+    "title": "Week 4",
+    "section": "",
+    "text": "Title\nFile\n\n\n\n\nNotes\nPDF\n\n\nKahoot\nPDF"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ghasebe",
+    "section": "",
+    "text": "Hi, I’m Georg!👋🏼\nI’m a BSc computer science student and teaching assistant at ETH Zurich.\nContact me at georg dot hasebe at inf dot ethz dot ch.\nThis website was made using Quarto."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Algorithms and Data Structures\n\n\n\n\n\nTeaching Assistant at ETH Zurich.\n\n\n\n\n\n\nFall Semester 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "teaching/and-fs23/weeks/week-3/index.html",
+    "href": "teaching/and-fs23/weeks/week-3/index.html",
+    "title": "Week 3",
+    "section": "",
+    "text": "Title\nFile\n\n\n\n\nNotes\nPDF\n\n\nKahoot\nPDF"
+  },
+  {
+    "objectID": "teaching/and-fs23/weeks/week-5/index.html",
+    "href": "teaching/and-fs23/weeks/week-5/index.html",
+    "title": "Week 5",
+    "section": "",
+    "text": "Title\nFile\n\n\n\n\nNotes\nPDF\n\n\nSlides\nPDF\n\n\nGent’s Proof 4.2b\nPDF"
+  },
+  {
+    "objectID": "teaching/and-fs23/weeks/week-7/index.html",
+    "href": "teaching/and-fs23/weeks/week-7/index.html",
+    "title": "Week 7",
+    "section": "",
+    "text": "Title\nFile\n\n\n\n\nNotes\nPDF\n\n\nSlides\nPDF"
+  },
+  {
+    "objectID": "teaching/and-fs23/weeks/week-1/index.html",
+    "href": "teaching/and-fs23/weeks/week-1/index.html",
+    "title": "Week 1",
+    "section": "",
+    "text": "Sheet 0 was optional.\n\n\n\nTitle\nFile\n\n\n\n\nNotes\nPDF\n\n\nSlides\nPDF"
+  },
+  {
+    "objectID": "teaching/and-fs23/resources/index.html",
+    "href": "teaching/and-fs23/resources/index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "XYQuadrats AnD Survival Guide. He also has a few other posts you might be interested in!\nPVW Scripts. Very useful for exam preparation.\nCollection of old exams. Very useful for exam preparation. Also contains files from students (e.g. notes, summaries).\nCheatsheets/Summaries. Cheatsheet inspiration."
+  },
+  {
+    "objectID": "teaching/and-fs23/resources/index.html#exam",
+    "href": "teaching/and-fs23/resources/index.html#exam",
+    "title": "Resources",
+    "section": "",
+    "text": "XYQuadrats AnD Survival Guide. He also has a few other posts you might be interested in!\nPVW Scripts. Very useful for exam preparation.\nCollection of old exams. Very useful for exam preparation. Also contains files from students (e.g. notes, summaries).\nCheatsheets/Summaries. Cheatsheet inspiration."
+  },
+  {
+    "objectID": "teaching/and-fs23/resources/index.html#general",
+    "href": "teaching/and-fs23/resources/index.html#general",
+    "title": "Resources",
+    "section": "General",
+    "text": "General\n\nMy How To Guide for Asymptotics: PDF, Overleaf\nA collection of weekly summaries from past semesters.\nD-INFK discord server. A big discord server with a lot of interesting information, many TAs and helpful students.\nLecture Material from past semesters (polybox). I think it is no longer maintained, but still useful.\nAlgorithm visualisation. Very useful getting intution on algorithms. I used this for AVL tree exercises.\nWilliam Fiset on YouTube. He makes some good DP-related videos. He also has an amazing github repo containing many Java algorithms!\nMy Java algorithms github repo. Sadly incomplete, but I still considered it helpful during my exam prepartion.\nGent Serifis AnD Cheatsheet. Gent was TA for this course as well and was kind enough to share all his files with me. Thank you Gent!\nWolfram Alpha. A powerful tool very helpful for math.\nDerivative Calculater. Very helpful for calculating derivatives. (There is also an integral version).\nMatrixCalc. Online matrix calculator. Very helpful for Linear Algebra.\nDesmos Graphing Calculator. Online graphing calculator for quick graphing."
+  },
+  {
+    "objectID": "teaching/and-fs23/resources/index.html#books",
+    "href": "teaching/and-fs23/resources/index.html#books",
+    "title": "Resources",
+    "section": "Books",
+    "text": "Books\n\nIntroduction to Algorithms, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. It’s a very famous, very good book. I used it as a reference to supplement the official lecture material (e.g. for matrix chain multiplication)."
+  }
+]
