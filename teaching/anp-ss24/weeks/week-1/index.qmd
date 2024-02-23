@@ -4,3 +4,10 @@ date: "2024-02-16"
 description: "AnD recap, Zusammenhang, cut vertices, bridges..."
 image: "w1.png"
 ---
+
+- [AnD recap slides](and-recap.pdf)
+- [Theory recap slides](anp-w01.pdf)
+
+---
+
+![Mentimeter Poll Results](mentimeter-results.png)
