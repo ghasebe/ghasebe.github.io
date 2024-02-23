@@ -20,7 +20,14 @@
   {
     "listing": "/teaching.html",
     "items": [
+      "/teaching/anp-ss24/index.html",
       "/teaching/and-fs23/index.html"
+    ]
+  },
+  {
+    "listing": "/teaching/anp-ss24/index.html",
+    "items": [
+      "/teaching/anp-ss24/weeks/week-1/index.html"
     ]
   }
 ]

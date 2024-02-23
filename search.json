@@ -74,7 +74,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Algorithms and Data Structures\n\n\n\n\n\nTeaching Assistant at ETH Zurich.\n\n\n\n\n\n\nFall Semester 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Algorithms and Probability\n\n\n\n\n\nTeaching Assistant at ETH Zurich.\n\n\n\n\n\n\nSpring Semester 2024\n\n\n\n\n\n\n\n\nAlgorithms and Data Structures\n\n\n\n\n\nTeaching Assistant at ETH Zurich.\n\n\n\n\n\n\nFall Semester 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -82,6 +82,13 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "teaching/anp-ss24/index.html",
+    "href": "teaching/anp-ss24/index.html",
+    "title": "Algorithms and Probability",
+    "section": "",
+    "text": "Information\n  \n  \n    Links\n    \n      Moodle\n    \n  \n\n\n  \n    Hi, I'm Georg!👋🏼\n    I teach the Fokusgruppe (German) on Thursdays at 16:15 in HG F 26.5.\n  \n\n\nClass Material\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\nAnD recap, Zusammenhang, cut vertices, bridges…\n\n\n\n\n\n\nFeb 16, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "teaching/and-fs23/weeks/week-3/index.html",
