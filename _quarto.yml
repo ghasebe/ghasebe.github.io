@@ -4,7 +4,7 @@ project:
 website:
   title: "ghasebe"
   navbar:
-    logo: "images/circle-nodes-solid.svg"
+    # logo: "images/circle-nodes-solid.svg"
     right:
       - teaching.qmd
       # - about.qmd

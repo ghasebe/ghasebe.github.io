@@ -1,0 +1,6 @@
+---
+title: "Week 1"
+date: "2024-02-16"
+description: "AnD recap, Zusammenhang, cut vertices, bridges..."
+image: "w1.png"
+---

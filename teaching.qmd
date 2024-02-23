@@ -2,6 +2,7 @@
 title: "Teaching"
 listing:
   contents:
+    - "teaching/anp-ss24/index.qmd"
     - "teaching/and-fs23/index.qmd"
   fields: [title, description, semester]
   sort: "date desc"
