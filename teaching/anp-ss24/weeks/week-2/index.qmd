@@ -1,0 +1,9 @@
+---
+title: "Week 2"
+date: "2024-02-29"
+description: "Hamilton DP, TSP, 2-approximation for metric TSP"
+image: "thumbnail-w02.png"
+---
+
+- [Minitest Notes](minitest-1.pdf)
+- [Theory recap slides](anp-w02.pdf)

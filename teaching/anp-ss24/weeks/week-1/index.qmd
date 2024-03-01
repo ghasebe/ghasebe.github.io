@@ -1,8 +1,8 @@
 ---
 title: "Week 1"
-date: "2024-02-16"
+date: "2024-02-22"
 description: "AnD recap, Zusammenhang, cut vertices, bridges..."
-image: "w1.png"
+image: "thumbnail-w01.png"
 ---
 
 - [AnD recap slides](and-recap.pdf)
