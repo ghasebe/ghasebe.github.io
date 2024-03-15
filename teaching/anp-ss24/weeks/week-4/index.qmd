@@ -1,0 +1,9 @@
+---
+title: "Week 4"
+date: "2024-03-14"
+description: "3/2-approximation for metric TSP, Greedy Coloring, Coloring"
+image: "thumbnail-w04.png"
+---
+
+- [Minitest 2](minitest-2.pdf)
+- [Peergrading + Theory recap slides](anp-w04.pdf)

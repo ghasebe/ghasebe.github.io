@@ -1,7 +1,7 @@
 ---
 title: "Week 1"
 date: "2024-02-22"
-description: "AnD recap, Zusammenhang, cut vertices, bridges..."
+description: "AnD recap, Zusammenhang, cut vertices, bridges"
 image: "thumbnail-w01.png"
 ---
 
