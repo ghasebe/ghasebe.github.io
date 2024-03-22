@@ -63,39 +63,11 @@
     "text": "AnD recap slides\nTheory recap slides\n\n\n\n\n\nMentimeter Poll Results"
   },
   {
-    "objectID": "teaching/anp-ss24/weeks/week-3/index.html",
-    "href": "teaching/anp-ss24/weeks/week-3/index.html",
-    "title": "Week 3",
+    "objectID": "teaching/anp-ss24/weeks/week-2/index.html",
+    "href": "teaching/anp-ss24/weeks/week-2/index.html",
+    "title": "Week 2",
     "section": "",
-    "text": "Exercise Sheet 1 Notes\nTheory recap slides"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Algorithms and Probability\n\n\n\n\n\nTeaching Assistant at ETH Zurich.\n\n\n\n\n\n\nSpring Semester 2024\n\n\n\n\n\n\n\n\nAlgorithms and Data Structures\n\n\n\n\n\nTeaching Assistant at ETH Zurich.\n\n\n\n\n\n\nFall Semester 2023\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ghasebe",
-    "section": "",
-    "text": "Hi, I’m Georg!👋🏼\nI’m a BSc computer science student and teaching assistant at ETH Zurich.\nContact me at georg dot hasebe at inf dot ethz dot ch.\nThis website was made using Quarto."
+    "text": "Minitest Notes\nTheory recap slides"
   },
   {
     "objectID": "teaching/anp-ss24/weeks/week-4/index.html",
@@ -105,18 +77,53 @@
     "text": "Minitest 2\nPeergrading + Theory recap slides"
   },
   {
-    "objectID": "teaching/anp-ss24/weeks/week-2/index.html",
-    "href": "teaching/anp-ss24/weeks/week-2/index.html",
-    "title": "Week 2",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ghasebe",
     "section": "",
-    "text": "Minitest Notes\nTheory recap slides"
+    "text": "Hi, I’m Georg!👋🏼\nI’m a BSc computer science student and teaching assistant at ETH Zurich.\nContact me at georg dot hasebe at inf dot ethz dot ch.\nThis website was made using Quarto."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Algorithms and Probability\n\n\n\n\n\nTeaching Assistant at ETH Zurich.\n\n\n\n\n\n\nSpring Semester 2024\n\n\n\n\n\n\n\n\nAlgorithms and Data Structures\n\n\n\n\n\nTeaching Assistant at ETH Zurich.\n\n\n\n\n\n\nFall Semester 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "teaching/anp-ss24/weeks/week-3/index.html",
+    "href": "teaching/anp-ss24/weeks/week-3/index.html",
+    "title": "Week 3",
+    "section": "",
+    "text": "Exercise Sheet 1 Notes\nTheory recap slides"
+  },
+  {
+    "objectID": "teaching/anp-ss24/weeks/week-5/index.html",
+    "href": "teaching/anp-ss24/weeks/week-5/index.html",
+    "title": "Week 5",
+    "section": "",
+    "text": "Note\n\n\n\nI removed the examples that we weren’t able to cover during this lesson. We will probably do them next time.\n\n\n\nExercise Sheet 2 Notes\nTheory recap slides\nTheory recap notes\nProf. Dr. Erich Walter Farkas’ combinatorics slides"
   },
   {
     "objectID": "teaching/anp-ss24/index.html",
     "href": "teaching/anp-ss24/index.html",
     "title": "Algorithms and Probability",
     "section": "",
-    "text": "Information\n  \n  \n    Links\n    \n      Moodle\n    \n  \n\n\n  \n    Hi, I'm Georg!👋🏼\n    I teach the Fokusgruppe (German) on Thursdays at 16:15 in HG F 26.5.\n  \n\n\nClass Material\n\n\n\n\n\n\n\n\n\n\nWeek 4\n\n\n3/2-approximation for metric TSP, Greedy Coloring, Coloring\n\n\n\n\n\n\nMar 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\nMatchings, Augmenting Paths, Hopcroft-Karp\n\n\n\n\n\n\nMar 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\nHamilton DP, TSP, 2-approximation for metric TSP\n\n\n\n\n\n\nFeb 29, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\nAnD recap, Zusammenhang, cut vertices, bridges\n\n\n\n\n\n\nFeb 22, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Information\n  \n  \n    Links\n    \n      Moodle\n    \n  \n\n\n  \n    Hi, I'm Georg!👋🏼\n    I teach the Fokusgruppe (German) on Thursdays at 16:15 in HG F 26.5.\n  \n\n\nClass Material\n\n\n\n\n\n\n\n\n\n\nWeek 5\n\n\n(Conditional) Probability, Siebformel, Indepencence\n\n\n\n\n\n\nMar 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 4\n\n\n3/2-approximation for metric TSP, Greedy Coloring, Coloring\n\n\n\n\n\n\nMar 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\nMatchings, Augmenting Paths, Hopcroft-Karp\n\n\n\n\n\n\nMar 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\nHamilton DP, TSP, 2-approximation for metric TSP\n\n\n\n\n\n\nFeb 29, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\nAnD recap, Zusammenhang, cut vertices, bridges\n\n\n\n\n\n\nFeb 22, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "teaching/and-fs23/weeks/week-3/index.html",
