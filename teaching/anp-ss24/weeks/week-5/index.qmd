@@ -1,0 +1,15 @@
+---
+title: "Week 5"
+date: "2024-03-21"
+description: "(Conditional) Probability, Siebformel, Indepencence"
+image: "thumbnail-w05.png"
+---
+
+::: {.callout-note}
+I removed the examples that we weren't able to cover during this lesson. We will probably do them next time.
+:::
+
+- [Exercise Sheet 2 Notes](s02.pdf)
+- [Theory recap slides](anp-w05.pdf)
+- [Theory recap notes](anp-notes-w05.pdf)
+- [Prof. Dr. Erich Walter Farkas' combinatorics slides](wus-combinatorics.pdf)
