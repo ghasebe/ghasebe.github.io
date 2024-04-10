@@ -10,4 +10,3 @@ _Sheet 0 was optional._
 | Title  | File |
 |--------|:----:|
 | Notes  | [PDF](notes-s00.pdf)     |
-| Slides | [PDF](w1.pdf)     |

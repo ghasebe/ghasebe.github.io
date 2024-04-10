@@ -1,0 +1,14 @@
+---
+title: "Week 5"
+date: "2024-03-27"
+description: "Indepencence, Random Variables, Expected Value"
+image: "thumbnail-w06.png"
+---
+
+::: {.callout-note}
+We were not able to cover all minitest questions. Please look at my notes.
+:::
+
+- [Minitest 3](minitest-3.pdf)
+- [Theory recap slides](anp-w06.pdf)
+- [Theory recap notes](anp-notes-w06.pdf)
