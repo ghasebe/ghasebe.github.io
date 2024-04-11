@@ -1,5 +1,5 @@
 ---
-title: "Week 5"
+title: "Week 6"
 date: "2024-03-27"
 description: "Indepencence, Random Variables, Expected Value"
 image: "thumbnail-w06.png"
