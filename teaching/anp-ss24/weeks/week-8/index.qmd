@@ -1,0 +1,14 @@
+---
+title: "Week 8"
+date: "2024-04-18"
+description: "Las-Vegas/Monte-Carlo Algorithmen, Target Shooting"
+image: "thumbnail-w08.png"
+---
+
+::: {.callout-note}
+We did not cover the last slide (minitest question). Please look at my notes.
+:::
+
+- [Minitest 4](minitest-4.pdf)
+- [Theory recap slides](anp-w08.pdf)
+- [Theory recap notes](anp-notes-w08.pdf)

@@ -1,0 +1,10 @@
+---
+title: "Week 7"
+date: "2024-04-11"
+description: "Wichtige Verteilungen, Coupon Collector, Varianz, Markov/Chebyshev/Chernoff Ungleichungen"
+image: "thumbnail-w07.png"
+---
+
+- [Exercise sheet 3 notes](s03.pdf)
+- [Theory recap slides](anp-w07.pdf)
+- [Theory recap notes](anp-notes-w07.pdf)
