@@ -56,11 +56,18 @@
     "text": "Title\nFile\n\n\n\n\nNotes\nPDF\n\n\nKahoot\nPDF"
   },
   {
-    "objectID": "teaching/anp-ss24/weeks/week-1/index.html",
-    "href": "teaching/anp-ss24/weeks/week-1/index.html",
-    "title": "Week 1",
+    "objectID": "teaching/anp-ss24/weeks/week-8/index.html",
+    "href": "teaching/anp-ss24/weeks/week-8/index.html",
+    "title": "Week 8",
     "section": "",
-    "text": "AnD recap slides\nTheory recap slides\n\n\n\n\n\nMentimeter Poll Results"
+    "text": "Note\n\n\n\nWe did not cover the last slide (minitest question). Please look at my notes.\n\n\n\nMinitest 4\nTheory recap slides\nTheory recap notes"
+  },
+  {
+    "objectID": "teaching/anp-ss24/weeks/week-6/index.html",
+    "href": "teaching/anp-ss24/weeks/week-6/index.html",
+    "title": "Week 6",
+    "section": "",
+    "text": "Note\n\n\n\nWe were not able to cover all minitest questions. Please look at my notes.\n\n\n\nMinitest 3\nTheory recap slides\nTheory recap notes"
   },
   {
     "objectID": "teaching/anp-ss24/weeks/week-5/index.html",
@@ -119,18 +126,25 @@
     "text": "Minitest Notes\nTheory recap slides"
   },
   {
-    "objectID": "teaching/anp-ss24/weeks/week-6/index.html",
-    "href": "teaching/anp-ss24/weeks/week-6/index.html",
-    "title": "Week 6",
+    "objectID": "teaching/anp-ss24/weeks/week-7/index.html",
+    "href": "teaching/anp-ss24/weeks/week-7/index.html",
+    "title": "Week 7",
     "section": "",
-    "text": "Note\n\n\n\nWe were not able to cover all minitest questions. Please look at my notes.\n\n\n\nMinitest 3\nTheory recap slides\nTheory recap notes"
+    "text": "Exercise sheet 3 notes\nTheory recap slides\nTheory recap notes"
+  },
+  {
+    "objectID": "teaching/anp-ss24/weeks/week-1/index.html",
+    "href": "teaching/anp-ss24/weeks/week-1/index.html",
+    "title": "Week 1",
+    "section": "",
+    "text": "AnD recap slides\nTheory recap slides\n\n\n\n\n\nMentimeter Poll Results"
   },
   {
     "objectID": "teaching/anp-ss24/index.html",
     "href": "teaching/anp-ss24/index.html",
     "title": "Algorithms and Probability",
     "section": "",
-    "text": "Information\n  \n  \n    Links\n    \n      Moodle\n    \n  \n\n\n  \n    Hi, I'm Georg!👋🏼\n    I teach the Fokusgruppe (German) on Thursdays at 16:15 in HG F 26.5.\n  \n\n\nClass Material\n\n\n\n\n\n\n\n\n\n\nWeek 6\n\n\nIndepencence, Random Variables, Expected Value\n\n\n\n\n\n\nMar 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 5\n\n\n(Conditional) Probability, Siebformel, Indepencence\n\n\n\n\n\n\nMar 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 4\n\n\n3/2-approximation for metric TSP, Greedy Coloring, Coloring\n\n\n\n\n\n\nMar 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\nMatchings, Augmenting Paths, Hopcroft-Karp\n\n\n\n\n\n\nMar 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\nHamilton DP, TSP, 2-approximation for metric TSP\n\n\n\n\n\n\nFeb 29, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\nAnD recap, Zusammenhang, cut vertices, bridges\n\n\n\n\n\n\nFeb 22, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Information\n  \n  \n    Links\n    \n      Moodle\n    \n  \n\n\n  \n    Hi, I'm Georg!👋🏼\n    I teach the Fokusgruppe (German) on Thursdays at 16:15 in HG F 26.5.\n  \n\n\nClass Material\n\n\n\n\n\n\n\n\n\n\nWeek 8\n\n\nLas-Vegas/Monte-Carlo Algorithmen, Target Shooting\n\n\n\n\n\n\nApr 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 7\n\n\nWichtige Verteilungen, Coupon Collector, Varianz, Markov/Chebyshev/Chernoff Ungleichungen\n\n\n\n\n\n\nApr 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 6\n\n\nIndepencence, Random Variables, Expected Value\n\n\n\n\n\n\nMar 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 5\n\n\n(Conditional) Probability, Siebformel, Indepencence\n\n\n\n\n\n\nMar 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 4\n\n\n3/2-approximation for metric TSP, Greedy Coloring, Coloring\n\n\n\n\n\n\nMar 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\nMatchings, Augmenting Paths, Hopcroft-Karp\n\n\n\n\n\n\nMar 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\nHamilton DP, TSP, 2-approximation for metric TSP\n\n\n\n\n\n\nFeb 29, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\nAnD recap, Zusammenhang, cut vertices, bridges\n\n\n\n\n\n\nFeb 22, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "teaching/and-fs23/weeks/week-3/index.html",
