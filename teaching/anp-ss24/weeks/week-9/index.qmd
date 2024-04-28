@@ -1,0 +1,17 @@
+---
+title: "Week 9"
+date: "2024-04-25"
+description: "Kleinster umschliessender Kreis"
+image: "thumbnail-w09.png"
+---
+
+::: {.callout-note}
+A few students asked me if I could upload Professor Welzl's slides from last spring semester.
+I asked him and he kindly agreed. Please note that material covered on these slides must not be
+part of this semesters lecture. It should only be seen as additional material. For exam relevant topics, please refer to the official lecture material.
+:::
+
+- [Exercise Sheet 4](s04.pdf)
+- [Theory recap slides](anp-w09.pdf)
+- [Theory recap notes](anp-notes-w09.pdf)
+- [Professor Emo Welzl's slides SS23](ss23-slides.pdf)
