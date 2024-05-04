@@ -1,0 +1,9 @@
+---
+title: "Week 10"
+date: "2024-05-02"
+description: "Lange Pfade, Konvexe Hülle, Jarvis Wrap"
+image: "thumbnail-w10.png"
+---
+
+- [Minitest 5](minitest-5.pdf)
+- [Theory recap slides](anp-w10.pdf)
