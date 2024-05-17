@@ -1,0 +1,14 @@
+---
+title: "Week 12"
+date: "2024-05-16"
+description: "Netzwerke, Flüsse, Ford-Fulkerson"
+image: "thumbnail-w12.png"
+---
+
+::: {.callout-note}
+Since I wasn't able to connect my iPad to the beamer, I did the last example from the slides on the blackboard. The solution can be found in the recap notes.
+:::
+
+- [Counterexample to old solution from Valentin Hächler](counterexample-valentin-haechler.pdf)
+- [Theory recap notes](anp-notes-w12.pdf)
+- [Theory recap slides](anp-w12.pdf)
