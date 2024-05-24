@@ -1,0 +1,11 @@
+---
+title: "Week 13"
+date: "2024-05-23"
+description: "Kantenschnitte, Minimale Schnitte, Bootstrapping"
+image: "thumbnail-w13.png"
+---
+
+- [Exercise sheet 6 notes](s06.pdf)
+- [Minitest 6 notes](minitest-6.pdf)
+- [Theory recap notes](anp-notes-w13.pdf)
+- [Theory recap slides](anp-w13.pdf)

@@ -5,5 +5,5 @@ description: "Matchings, Augmenting Paths, Hopcroft-Karp"
 image: "thumbnail-w03.png"
 ---
 
-- [Exercise Sheet 1 Notes](s01.pdf)
+- [Exercise sheet 1 notes](s01.pdf)
 - [Theory recap slides](anp-w03.pdf)

@@ -11,7 +11,7 @@ I asked him and he kindly agreed. Please note that material covered on these sli
 part of this semesters lecture. It should only be seen as additional material. For exam relevant topics, please refer to the official lecture material.
 :::
 
-- [Exercise Sheet 4](s04.pdf)
+- [Exercise sheet 4 notes](s04.pdf)
 - [Theory recap slides](anp-w09.pdf)
 - [Theory recap notes](anp-notes-w09.pdf)
 - [Professor Emo Welzl's slides SS23](ss23-slides.pdf)
