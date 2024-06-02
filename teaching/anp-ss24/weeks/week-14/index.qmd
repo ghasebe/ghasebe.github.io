@@ -1,0 +1,18 @@
+---
+title: "Week 14"
+date: "2024-05-30"
+description: "Probabilistic dynamic programming"
+image: "thumbnail-w14.png"
+---
+
+::: {.callout-note}
+We were only able to cover the third subtask on probabilistic dynamic programming. The notes and code below contain solutions to all subtasks.
+:::
+
+- [Problem description](a-game-of-skill.pdf)
+- [(Messy in-class) Programming notes](game-of-skill-in-class.pdf)
+- [(Cleaner, complete) Programming notes](game-of-skill-notes.pdf)
+- [Complementary slides](anp-w14.pdf)
+
+## Code 
+<script src="https://gist.github.com/ghasebe/6f14311338b8469bccbfc038b36e47da.js"></script>
