@@ -1,0 +1,28 @@
+---
+title: "Algorithms and Data Structures"
+description: "Teaching Assistant at ETH Zurich."
+semester: "Fall Semester 2024"
+format:
+  html:
+    template-partials:
+      - title-block.html
+listing:
+  id: class-material
+  contents: weeks 
+  fields: [title, sheet, date]
+  sort: "date desc"
+  type: grid 
+  field-display-names:
+    title: "Week"
+    sheet: "Sheet"
+  categories: false
+  sort-ui: false 
+  filter-ui: false 
+page-layout: article 
+title-block-banner: false 
+comments:
+  giscus: 
+    repo: ghasebe/ghasebe.github.io
+---
+
+*coming soon.*
