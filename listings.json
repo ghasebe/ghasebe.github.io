@@ -1,28 +1,7 @@
 [
   {
-    "listing": "/teaching/and-fs23/index.html",
-    "items": [
-      "/teaching/and-fs23/weeks/week-13/index.html",
-      "/teaching/and-fs23/weeks/week-12/index.html",
-      "/teaching/and-fs23/weeks/week-11/index.html",
-      "/teaching/and-fs23/weeks/week-10/index.html",
-      "/teaching/and-fs23/weeks/week-9/index.html",
-      "/teaching/and-fs23/weeks/week-8/index.html",
-      "/teaching/and-fs23/weeks/week-7/index.html",
-      "/teaching/and-fs23/weeks/week-6/index.html",
-      "/teaching/and-fs23/weeks/week-5/index.html",
-      "/teaching/and-fs23/weeks/week-4/index.html",
-      "/teaching/and-fs23/weeks/week-3/index.html",
-      "/teaching/and-fs23/weeks/week-2/index.html",
-      "/teaching/and-fs23/weeks/week-1/index.html"
-    ]
-  },
-  {
-    "listing": "/teaching.html",
-    "items": [
-      "/teaching/anp-ss24/index.html",
-      "/teaching/and-fs23/index.html"
-    ]
+    "listing": "/teaching/and-fs24/index.html",
+    "items": []
   },
   {
     "listing": "/teaching/anp-ss24/index.html",
@@ -41,5 +20,16 @@
       "/teaching/anp-ss24/weeks/week-2/index.html",
       "/teaching/anp-ss24/weeks/week-1/index.html"
     ]
+  },
+  {
+    "listing": "/teaching.html",
+    "items": [
+      "/teaching/anp-ss24/index.html",
+      "/teaching/and-fs23/index.html"
+    ]
+  },
+  {
+    "listing": "/teaching/and-fs23/index.html",
+    "items": []
   }
 ]

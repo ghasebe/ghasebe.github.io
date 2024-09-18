@@ -1,150 +1,38 @@
 [
   {
-    "objectID": "teaching/and-fs23/index.html",
-    "href": "teaching/and-fs23/index.html",
+    "objectID": "teaching/and-fs24/index.html",
+    "href": "teaching/and-fs24/index.html",
     "title": "Algorithms and Data Structures",
     "section": "",
-    "text": "Information\n  \n  \n    Example Lesson\n  \n  \n    Credits\n  \n  \n    Links\n    \n      \n      Groups\n      Resources\n      Course Website\n      Moodle\n      \n      \n    \n  \n\n\n  \n    \n    My exercise classes take place on Mondays at 9:15 in ETZ H91. I teach in German.\n    In the Example Lesson tab you can see how I try to structure my exercise classes.\n    \n    Please submit the solutions to the weekly assignments by Monday 9:15 and the peergrading by Tuesday 23:59. One solution per group is sufficient.\n  \n  \n  \n\n\n\nTime\nActivity\n\n\n\n\n09:15 - 09:20\nShort discussion of the previous week’s submissions\n\n\n09:20 - 10:00\nSolving bonus problems\n\n\n10:00 - 10:10\nBreak\n\n\n10:10 - 10:30\nSolving bonus problems\n\n\n10:30 - 10:35\nShort discussion of the bonus questions (e.g. relevance for exams)\n\n\n10:35 - 11:00\nBrief theory recap\n\n\n11:00 - 12:00\nPeergrading, QA and non-bonus questions from 11-12 (on a voluntary basis)\n\n\n\n\n  \n  \n    I would like to thank Sangbeom (Joshua) Park, Maximilian Schlegel, Gent Serifi, Johannes Goettle and Nicholas Scheurenbrand, AnD TAs from previous semesters, who kindly let me use their class material.\n  \n\n\nClass Material\n\n\n\n\n\n\n\nWeek 14\n\n\n\nDec 18, 2023\n\n\n\n\n\n\nSheet\n\n\n12\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 13\n\n\n\nDec 11, 2023\n\n\n\n\n\n\nSheet\n\n\n11\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 11\n\n\n\nDec 4, 2023\n\n\n\n\n\n\nSheet\n\n\n10\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 10\n\n\n\nNov 27, 2023\n\n\n\n\n\n\nSheet\n\n\n9\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 9\n\n\n\nNov 20, 2023\n\n\n\n\n\n\nSheet\n\n\n8\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 8\n\n\n\nNov 13, 2023\n\n\n\n\n\n\nSheet\n\n\n7\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 7\n\n\n\nNov 6, 2023\n\n\n\n\n\n\nSheet\n\n\n6\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 6\n\n\n\nOct 30, 2023\n\n\n\n\n\n\nSheet\n\n\n5\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 5\n\n\n\nOct 23, 2023\n\n\n\n\n\n\nSheet\n\n\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 4\n\n\n\nOct 16, 2023\n\n\n\n\n\n\nSheet\n\n\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\n\nOct 9, 2023\n\n\n\n\n\n\nSheet\n\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\n\nOct 2, 2023\n\n\n\n\n\n\nSheet\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\n\nSep 25, 2023\n\n\n\n\n\n\nSheet\n\n\n0\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "coming soon.\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "teaching/and-fs23/weeks/week-11/index.html",
-    "href": "teaching/and-fs23/weeks/week-11/index.html",
-    "title": "Week 11",
+    "objectID": "teaching/anp-ss24/index.html",
+    "href": "teaching/anp-ss24/index.html",
+    "title": "Algorithms and Probability",
     "section": "",
-    "text": "Title\nFile\n\n\n\n\nSheet 10 Notes\nPDF\n\n\nLesson Slides\nPDF"
+    "text": "Information\n  \n  \n    Links\n    \n      Moodle\n    \n  \n\n\n  \n    Hi, I'm Georg!👋🏼\n    I teach the Fokusgruppe (German) on Thursdays at 16:15 in HG F 26.5.\n  \n\n\nClass Material\n\n\n\n\n\n\n\n\n\n\nWeek 14\n\n\nProbabilistic dynamic programming\n\n\n\n\n\n\nMay 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 13\n\n\nKantenschnitte, Minimale Schnitte, Bootstrapping\n\n\n\n\n\n\nMay 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 12\n\n\nNetzwerke, Flüsse, Ford-Fulkerson\n\n\n\n\n\n\nMay 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 10\n\n\nLange Pfade, Konvexe Hülle, Jarvis Wrap\n\n\n\n\n\n\nMay 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 9\n\n\nKleinster umschliessender Kreis\n\n\n\n\n\n\nApr 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 8\n\n\nLas-Vegas/Monte-Carlo Algorithmen, Target Shooting\n\n\n\n\n\n\nApr 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 7\n\n\nWichtige Verteilungen, Coupon Collector, Varianz, Markov/Chebyshev/Chernoff Ungleichungen\n\n\n\n\n\n\nApr 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 6\n\n\nIndepencence, Random Variables, Expected Value\n\n\n\n\n\n\nMar 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 5\n\n\n(Conditional) Probability, Siebformel, Indepencence\n\n\n\n\n\n\nMar 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 4\n\n\n3/2-approximation for metric TSP, Greedy Coloring, Coloring\n\n\n\n\n\n\nMar 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\nMatchings, Augmenting Paths, Hopcroft-Karp\n\n\n\n\n\n\nMar 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\nHamilton DP, TSP, 2-approximation for metric TSP\n\n\n\n\n\n\nFeb 29, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\nAnD recap, Zusammenhang, cut vertices, bridges\n\n\n\n\n\n\nFeb 22, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "teaching/and-fs23/weeks/week-8/index.html",
-    "href": "teaching/and-fs23/weeks/week-8/index.html",
+    "objectID": "teaching/anp-ss24/weeks/week-8/index.html",
+    "href": "teaching/anp-ss24/weeks/week-8/index.html",
     "title": "Week 8",
     "section": "",
-    "text": "Title\nFile\n\n\n\n\nNotes\nPDF\n\n\nSlides\nPDF\n\n\nKahoot\nPDF"
+    "text": "Note\n\n\n\nWe did not cover the last slide (minitest question). Please look at my notes.\n\n\n\nMinitest 4\nTheory recap slides\nTheory recap notes"
   },
   {
-    "objectID": "teaching/and-fs23/weeks/week-6/index.html",
-    "href": "teaching/and-fs23/weeks/week-6/index.html",
+    "objectID": "teaching/anp-ss24/weeks/week-6/index.html",
+    "href": "teaching/anp-ss24/weeks/week-6/index.html",
     "title": "Week 6",
     "section": "",
-    "text": "Title\nFile\n\n\n\n\nNotes\nPDF\n\n\nSlides\nPDF\n\n\nAVL Rotations\nPDF"
+    "text": "Note\n\n\n\nWe were not able to cover all minitest questions. Please look at my notes.\n\n\n\nMinitest 3\nTheory recap slides\nTheory recap notes"
   },
   {
-    "objectID": "teaching/and-fs23/weeks/week-9/index.html",
-    "href": "teaching/and-fs23/weeks/week-9/index.html",
+    "objectID": "teaching/anp-ss24/weeks/week-9/index.html",
+    "href": "teaching/anp-ss24/weeks/week-9/index.html",
     "title": "Week 9",
     "section": "",
-    "text": "Title\nFile\n\n\n\n\nSheet 8 Notes\nPDF\n\n\nLesson Slides\nPDF\n\n\nDP Slides\nPDF\n\n\nLPS Description\nPDF\n\n\n\n\nLPS Code"
-  },
-  {
-    "objectID": "teaching/and-fs23/weeks/week-13/index.html",
-    "href": "teaching/and-fs23/weeks/week-13/index.html",
-    "title": "Week 14",
-    "section": "",
-    "text": "Title\nFile\n\n\n\n\nSheet 12 Notes\nPDF\n\n\nLesson Slides\nPDF\n\n\nExam Preperation\nPDF"
-  },
-  {
-    "objectID": "teaching/and-fs23/weeks/week-2/index.html",
-    "href": "teaching/and-fs23/weeks/week-2/index.html",
-    "title": "Week 2",
-    "section": "",
-    "text": "Title\nFile\n\n\n\n\nNotes\nPDF"
-  },
-  {
-    "objectID": "teaching/and-fs23/weeks/week-4/index.html",
-    "href": "teaching/and-fs23/weeks/week-4/index.html",
-    "title": "Week 4",
-    "section": "",
-    "text": "Title\nFile\n\n\n\n\nNotes\nPDF\n\n\nKahoot\nPDF"
-  },
-  {
-    "objectID": "teaching/anp-ss24/weeks/week-10/index.html",
-    "href": "teaching/anp-ss24/weeks/week-10/index.html",
-    "title": "Week 10",
-    "section": "",
-    "text": "Minitest 5\nTheory recap slides"
-  },
-  {
-    "objectID": "teaching/anp-ss24/weeks/week-1/index.html",
-    "href": "teaching/anp-ss24/weeks/week-1/index.html",
-    "title": "Week 1",
-    "section": "",
-    "text": "AnD recap slides\nTheory recap slides\n\n\n\n\n\nMentimeter Poll Results"
-  },
-  {
-    "objectID": "teaching/anp-ss24/weeks/week-7/index.html",
-    "href": "teaching/anp-ss24/weeks/week-7/index.html",
-    "title": "Week 7",
-    "section": "",
-    "text": "Exercise sheet 3 notes\nTheory recap slides\nTheory recap notes"
-  },
-  {
-    "objectID": "teaching/anp-ss24/weeks/week-12/index.html",
-    "href": "teaching/anp-ss24/weeks/week-12/index.html",
-    "title": "Week 12",
-    "section": "",
-    "text": "Note\n\n\n\nSince I wasn’t able to connect my iPad to the beamer, I did the last example from the slides on the blackboard. The solution can be found in the recap notes.\n\n\n\nCounterexample to old solution from Valentin Hächler\nTheory recap notes\nTheory recap slides"
-  },
-  {
-    "objectID": "teaching/anp-ss24/weeks/week-13/index.html",
-    "href": "teaching/anp-ss24/weeks/week-13/index.html",
-    "title": "Week 13",
-    "section": "",
-    "text": "Exercise sheet 6 notes\nMinitest 6 notes\nTheory recap notes\nTheory recap slides"
-  },
-  {
-    "objectID": "teaching/anp-ss24/weeks/week-2/index.html",
-    "href": "teaching/anp-ss24/weeks/week-2/index.html",
-    "title": "Week 2",
-    "section": "",
-    "text": "Minitest Notes\nTheory recap slides"
-  },
-  {
-    "objectID": "teaching/anp-ss24/weeks/week-4/index.html",
-    "href": "teaching/anp-ss24/weeks/week-4/index.html",
-    "title": "Week 4",
-    "section": "",
-    "text": "Minitest 2\nPeergrading + Theory recap slides"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ghasebe",
-    "section": "",
-    "text": "Hi, I’m Georg!👋🏼\nI’m a BSc computer science student and teaching assistant at ETH Zurich.\nContact me at georg dot hasebe at inf dot ethz dot ch.\nThis website was made using Quarto."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Algorithms and Probability\n\n\n\n\n\nTeaching Assistant at ETH Zurich.\n\n\n\n\n\n\nSpring Semester 2024\n\n\n\n\n\n\n\n\nAlgorithms and Data Structures\n\n\n\n\n\nTeaching Assistant at ETH Zurich.\n\n\n\n\n\n\nFall Semester 2023\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "teaching/anp-ss24/weeks/week-3/index.html",
-    "href": "teaching/anp-ss24/weeks/week-3/index.html",
-    "title": "Week 3",
-    "section": "",
-    "text": "Exercise sheet 1 notes\nTheory recap slides"
-  },
-  {
-    "objectID": "teaching/anp-ss24/weeks/week-5/index.html",
-    "href": "teaching/anp-ss24/weeks/week-5/index.html",
-    "title": "Week 5",
-    "section": "",
-    "text": "Note\n\n\n\nI removed the examples that we weren’t able to cover during this lesson. We will probably do them next time.\n\n\n\nExercise sheet 2 Notes\nTheory recap slides\nTheory recap notes\nProf. Dr. Erich Walter Farkas’ combinatorics slides"
+    "text": "Note\n\n\n\nA few students asked me if I could upload Professor Welzl’s slides from last spring semester. I asked him and he kindly agreed. Please note that material covered on these slides must not be part of this semesters lecture. It should only be seen as additional material. For exam relevant topics, please refer to the official lecture material.\n\n\n\nExercise sheet 4 notes\nTheory recap slides\nTheory recap notes\nProfessor Emo Welzl’s slides SS23"
   },
   {
     "objectID": "teaching/anp-ss24/weeks/week-14/index.html",
@@ -161,101 +49,101 @@
     "text": "Code"
   },
   {
-    "objectID": "teaching/anp-ss24/weeks/week-9/index.html",
-    "href": "teaching/anp-ss24/weeks/week-9/index.html",
-    "title": "Week 9",
-    "section": "",
-    "text": "Note\n\n\n\nA few students asked me if I could upload Professor Welzl’s slides from last spring semester. I asked him and he kindly agreed. Please note that material covered on these slides must not be part of this semesters lecture. It should only be seen as additional material. For exam relevant topics, please refer to the official lecture material.\n\n\n\nExercise sheet 4 notes\nTheory recap slides\nTheory recap notes\nProfessor Emo Welzl’s slides SS23"
-  },
-  {
-    "objectID": "teaching/anp-ss24/weeks/week-6/index.html",
-    "href": "teaching/anp-ss24/weeks/week-6/index.html",
-    "title": "Week 6",
-    "section": "",
-    "text": "Note\n\n\n\nWe were not able to cover all minitest questions. Please look at my notes.\n\n\n\nMinitest 3\nTheory recap slides\nTheory recap notes"
-  },
-  {
-    "objectID": "teaching/anp-ss24/weeks/week-8/index.html",
-    "href": "teaching/anp-ss24/weeks/week-8/index.html",
-    "title": "Week 8",
-    "section": "",
-    "text": "Note\n\n\n\nWe did not cover the last slide (minitest question). Please look at my notes.\n\n\n\nMinitest 4\nTheory recap slides\nTheory recap notes"
-  },
-  {
-    "objectID": "teaching/anp-ss24/index.html",
-    "href": "teaching/anp-ss24/index.html",
-    "title": "Algorithms and Probability",
-    "section": "",
-    "text": "Information\n  \n  \n    Links\n    \n      Moodle\n    \n  \n\n\n  \n    Hi, I'm Georg!👋🏼\n    I teach the Fokusgruppe (German) on Thursdays at 16:15 in HG F 26.5.\n  \n\n\nClass Material\n\n\n\n\n\n\n\n\n\n\nWeek 14\n\n\nProbabilistic dynamic programming\n\n\n\n\n\n\nMay 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 13\n\n\nKantenschnitte, Minimale Schnitte, Bootstrapping\n\n\n\n\n\n\nMay 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 12\n\n\nNetzwerke, Flüsse, Ford-Fulkerson\n\n\n\n\n\n\nMay 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 10\n\n\nLange Pfade, Konvexe Hülle, Jarvis Wrap\n\n\n\n\n\n\nMay 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 9\n\n\nKleinster umschliessender Kreis\n\n\n\n\n\n\nApr 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 8\n\n\nLas-Vegas/Monte-Carlo Algorithmen, Target Shooting\n\n\n\n\n\n\nApr 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 7\n\n\nWichtige Verteilungen, Coupon Collector, Varianz, Markov/Chebyshev/Chernoff Ungleichungen\n\n\n\n\n\n\nApr 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 6\n\n\nIndepencence, Random Variables, Expected Value\n\n\n\n\n\n\nMar 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 5\n\n\n(Conditional) Probability, Siebformel, Indepencence\n\n\n\n\n\n\nMar 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 4\n\n\n3/2-approximation for metric TSP, Greedy Coloring, Coloring\n\n\n\n\n\n\nMar 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\nMatchings, Augmenting Paths, Hopcroft-Karp\n\n\n\n\n\n\nMar 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\nHamilton DP, TSP, 2-approximation for metric TSP\n\n\n\n\n\n\nFeb 29, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\nAnD recap, Zusammenhang, cut vertices, bridges\n\n\n\n\n\n\nFeb 22, 2024\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "teaching/and-fs23/weeks/week-3/index.html",
-    "href": "teaching/and-fs23/weeks/week-3/index.html",
-    "title": "Week 3",
-    "section": "",
-    "text": "Title\nFile\n\n\n\n\nNotes\nPDF\n\n\nKahoot\nPDF"
-  },
-  {
-    "objectID": "teaching/and-fs23/weeks/week-5/index.html",
-    "href": "teaching/and-fs23/weeks/week-5/index.html",
+    "objectID": "teaching/anp-ss24/weeks/week-5/index.html",
+    "href": "teaching/anp-ss24/weeks/week-5/index.html",
     "title": "Week 5",
     "section": "",
-    "text": "Title\nFile\n\n\n\n\nNotes\nPDF\n\n\nSlides\nPDF\n\n\nGent’s Proof 4.2b\nPDF"
+    "text": "Note\n\n\n\nI removed the examples that we weren’t able to cover during this lesson. We will probably do them next time.\n\n\n\nExercise sheet 2 Notes\nTheory recap slides\nTheory recap notes\nProf. Dr. Erich Walter Farkas’ combinatorics slides"
   },
   {
-    "objectID": "teaching/and-fs23/weeks/week-12/index.html",
-    "href": "teaching/and-fs23/weeks/week-12/index.html",
+    "objectID": "teaching/anp-ss24/weeks/week-3/index.html",
+    "href": "teaching/anp-ss24/weeks/week-3/index.html",
+    "title": "Week 3",
+    "section": "",
+    "text": "Exercise sheet 1 notes\nTheory recap slides"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Algorithms and Probability\n\n\n\n\n\nTeaching Assistant at ETH Zurich.\n\n\n\n\n\n\nSpring Semester 2024\n\n\n\n\n\n\n\n\nAlgorithms and Data Structures\n\n\n\n\n\nTeaching Assistant at ETH Zurich.\n\n\n\n\n\n\nFall Semester 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ghasebe",
+    "section": "",
+    "text": "Hi, I’m Georg!👋🏼\nI’m a BSc computer science student and teaching assistant at ETH Zurich.\nContact me at georg dot hasebe at inf dot ethz dot ch.\nThis website was made using Quarto."
+  },
+  {
+    "objectID": "teaching/anp-ss24/weeks/week-4/index.html",
+    "href": "teaching/anp-ss24/weeks/week-4/index.html",
+    "title": "Week 4",
+    "section": "",
+    "text": "Minitest 2\nPeergrading + Theory recap slides"
+  },
+  {
+    "objectID": "teaching/anp-ss24/weeks/week-2/index.html",
+    "href": "teaching/anp-ss24/weeks/week-2/index.html",
+    "title": "Week 2",
+    "section": "",
+    "text": "Minitest Notes\nTheory recap slides"
+  },
+  {
+    "objectID": "teaching/anp-ss24/weeks/week-13/index.html",
+    "href": "teaching/anp-ss24/weeks/week-13/index.html",
     "title": "Week 13",
     "section": "",
-    "text": "Title\nFile\n\n\n\n\nSheet 11 Notes\nPDF\n\n\nLesson Slides\nPDF"
+    "text": "Exercise sheet 6 notes\nMinitest 6 notes\nTheory recap notes\nTheory recap slides"
   },
   {
-    "objectID": "teaching/and-fs23/weeks/week-7/index.html",
-    "href": "teaching/and-fs23/weeks/week-7/index.html",
+    "objectID": "teaching/anp-ss24/weeks/week-12/index.html",
+    "href": "teaching/anp-ss24/weeks/week-12/index.html",
+    "title": "Week 12",
+    "section": "",
+    "text": "Note\n\n\n\nSince I wasn’t able to connect my iPad to the beamer, I did the last example from the slides on the blackboard. The solution can be found in the recap notes.\n\n\n\nCounterexample to old solution from Valentin Hächler\nTheory recap notes\nTheory recap slides"
+  },
+  {
+    "objectID": "teaching/anp-ss24/weeks/week-7/index.html",
+    "href": "teaching/anp-ss24/weeks/week-7/index.html",
     "title": "Week 7",
     "section": "",
-    "text": "Title\nFile\n\n\n\n\nNotes\nPDF\n\n\nSlides\nPDF"
+    "text": "Exercise sheet 3 notes\nTheory recap slides\nTheory recap notes"
   },
   {
-    "objectID": "teaching/and-fs23/weeks/week-1/index.html",
-    "href": "teaching/and-fs23/weeks/week-1/index.html",
+    "objectID": "teaching/anp-ss24/weeks/week-1/index.html",
+    "href": "teaching/anp-ss24/weeks/week-1/index.html",
     "title": "Week 1",
     "section": "",
-    "text": "Sheet 0 was optional.\n\n\n\nTitle\nFile\n\n\n\n\nNotes\nPDF"
+    "text": "AnD recap slides\nTheory recap slides\n\n\n\n\n\nMentimeter Poll Results"
   },
   {
-    "objectID": "teaching/and-fs23/weeks/week-10/index.html",
-    "href": "teaching/and-fs23/weeks/week-10/index.html",
+    "objectID": "teaching/anp-ss24/weeks/week-10/index.html",
+    "href": "teaching/anp-ss24/weeks/week-10/index.html",
     "title": "Week 10",
     "section": "",
-    "text": "Title\nFile\n\n\n\n\nSheet 9 Notes\nPDF\n\n\nLesson Slides\nPDF"
+    "text": "Minitest 5\nTheory recap slides"
   },
   {
-    "objectID": "teaching/and-fs23/resources/index.html",
-    "href": "teaching/and-fs23/resources/index.html",
-    "title": "Resources",
+    "objectID": "teaching/and-fs23/index.html",
+    "href": "teaching/and-fs23/index.html",
+    "title": "Algorithms and Data Structures",
     "section": "",
-    "text": "XYQuadrats AnD Survival Guide. He also has a few other posts you might be interested in!\nPVW Scripts. Very useful for exam preparation.\nCollection of old exams. Very useful for exam preparation. Also contains files from students (e.g. notes, summaries).\nCheatsheets/Summaries. Cheatsheet inspiration."
-  },
-  {
-    "objectID": "teaching/and-fs23/resources/index.html#exam",
-    "href": "teaching/and-fs23/resources/index.html#exam",
-    "title": "Resources",
-    "section": "",
-    "text": "XYQuadrats AnD Survival Guide. He also has a few other posts you might be interested in!\nPVW Scripts. Very useful for exam preparation.\nCollection of old exams. Very useful for exam preparation. Also contains files from students (e.g. notes, summaries).\nCheatsheets/Summaries. Cheatsheet inspiration."
-  },
-  {
-    "objectID": "teaching/and-fs23/resources/index.html#general",
-    "href": "teaching/and-fs23/resources/index.html#general",
-    "title": "Resources",
-    "section": "General",
-    "text": "General\n\nMy How To Guide for Asymptotics: PDF, Overleaf\nA collection of weekly summaries from past semesters.\nD-INFK discord server. A big discord server with a lot of interesting information, many TAs and helpful students.\nLecture Material from past semesters (polybox). I think it is no longer maintained, but still useful.\nAlgorithm visualisation. Very useful getting intution on algorithms. I used this for AVL tree exercises.\nWilliam Fiset on YouTube. He makes some good DP-related videos. He also has an amazing github repo containing many Java algorithms!\nMy Java algorithms github repo. Sadly incomplete, but I still considered it helpful during my exam prepartion.\nGent Serifis AnD Cheatsheet. Gent was TA for this course as well and was kind enough to share all his files with me. Thank you Gent!\nWolfram Alpha. A powerful tool very helpful for math.\nDerivative Calculater. Very helpful for calculating derivatives. (There is also an integral version).\nMatrixCalc. Online matrix calculator. Very helpful for Linear Algebra.\nDesmos Graphing Calculator. Online graphing calculator for quick graphing."
-  },
-  {
-    "objectID": "teaching/and-fs23/resources/index.html#books",
-    "href": "teaching/and-fs23/resources/index.html#books",
-    "title": "Resources",
-    "section": "Books",
-    "text": "Books\n\nIntroduction to Algorithms, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. It’s a very famous, very good book. I used it as a reference to supplement the official lecture material (e.g. for matrix chain multiplication)."
+    "text": "If you would like to have access to files from this semester, please contact me on georg dot hasebe at inf dot ethz dot ch.\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

@@ -1,139 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ghasebe.github.io/teaching/and-fs23/index.html</loc>
-    <lastmod>2024-06-02T09:20:25.515Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/and-fs23/weeks/week-11/index.html</loc>
-    <lastmod>2024-06-02T09:20:24.231Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/and-fs23/weeks/week-8/index.html</loc>
-    <lastmod>2024-06-02T09:20:23.881Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/and-fs23/weeks/week-6/index.html</loc>
-    <lastmod>2024-06-02T09:20:23.527Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/and-fs23/weeks/week-9/index.html</loc>
-    <lastmod>2024-06-02T09:20:23.161Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/and-fs23/weeks/week-13/index.html</loc>
-    <lastmod>2024-06-02T09:20:22.809Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/and-fs23/weeks/week-2/index.html</loc>
-    <lastmod>2024-06-02T09:20:22.452Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/and-fs23/weeks/week-4/index.html</loc>
-    <lastmod>2024-06-02T09:20:22.091Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-10/index.html</loc>
-    <lastmod>2024-06-02T09:20:20.738Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-1/index.html</loc>
-    <lastmod>2024-06-02T09:20:20.369Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-7/index.html</loc>
-    <lastmod>2024-06-02T09:20:20.006Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-12/index.html</loc>
-    <lastmod>2024-06-02T09:20:19.644Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-13/index.html</loc>
-    <lastmod>2024-06-02T09:20:19.278Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-2/index.html</loc>
-    <lastmod>2024-06-02T09:20:18.914Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-4/index.html</loc>
-    <lastmod>2024-06-02T09:20:18.564Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/index.html</loc>
-    <lastmod>2024-06-02T09:20:18.226Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2024-06-02T09:20:17.859Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching.html</loc>
-    <lastmod>2024-06-02T09:20:17.678Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/posts/welcome/index.html</loc>
-    <lastmod>2024-06-02T09:20:18.048Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/about.html</loc>
-    <lastmod>2024-06-02T09:20:18.388Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-3/index.html</loc>
-    <lastmod>2024-06-02T09:20:18.738Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-5/index.html</loc>
-    <lastmod>2024-06-02T09:20:19.104Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-14/index.html</loc>
-    <lastmod>2024-06-02T09:20:19.467Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-9/index.html</loc>
-    <lastmod>2024-06-02T09:20:19.830Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-6/index.html</loc>
-    <lastmod>2024-06-02T09:20:20.183Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-8/index.html</loc>
-    <lastmod>2024-06-02T09:20:20.560Z</lastmod>
+    <loc>https://ghasebe.github.io/teaching/and-fs24/index.html</loc>
+    <lastmod>2024-09-18T11:58:31.561Z</lastmod>
   </url>
   <url>
     <loc>https://ghasebe.github.io/teaching/anp-ss24/index.html</loc>
-    <lastmod>2024-06-02T09:20:21.898Z</lastmod>
+    <lastmod>2024-09-18T11:58:29.589Z</lastmod>
   </url>
   <url>
-    <loc>https://ghasebe.github.io/teaching/and-fs23/weeks/week-3/index.html</loc>
-    <lastmod>2024-06-02T09:20:22.277Z</lastmod>
+    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-8/index.html</loc>
+    <lastmod>2024-09-18T11:58:28.255Z</lastmod>
   </url>
   <url>
-    <loc>https://ghasebe.github.io/teaching/and-fs23/weeks/week-5/index.html</loc>
-    <lastmod>2024-06-02T09:20:22.629Z</lastmod>
+    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-6/index.html</loc>
+    <lastmod>2024-09-18T11:58:27.909Z</lastmod>
   </url>
   <url>
-    <loc>https://ghasebe.github.io/teaching/and-fs23/weeks/week-12/index.html</loc>
-    <lastmod>2024-06-02T09:20:22.984Z</lastmod>
+    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-9/index.html</loc>
+    <lastmod>2024-09-18T11:58:27.553Z</lastmod>
   </url>
   <url>
-    <loc>https://ghasebe.github.io/teaching/and-fs23/weeks/week-7/index.html</loc>
-    <lastmod>2024-06-02T09:20:23.341Z</lastmod>
+    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-14/index.html</loc>
+    <lastmod>2024-09-18T11:58:27.168Z</lastmod>
   </url>
   <url>
-    <loc>https://ghasebe.github.io/teaching/and-fs23/weeks/week-1/index.html</loc>
-    <lastmod>2024-06-02T09:20:23.704Z</lastmod>
+    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-5/index.html</loc>
+    <lastmod>2024-09-18T11:58:26.813Z</lastmod>
   </url>
   <url>
-    <loc>https://ghasebe.github.io/teaching/and-fs23/weeks/week-10/index.html</loc>
-    <lastmod>2024-06-02T09:20:24.055Z</lastmod>
+    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-3/index.html</loc>
+    <lastmod>2024-09-18T11:58:26.460Z</lastmod>
   </url>
   <url>
-    <loc>https://ghasebe.github.io/teaching/and-fs23/resources/index.html</loc>
-    <lastmod>2024-06-02T09:20:24.460Z</lastmod>
+    <loc>https://ghasebe.github.io/about.html</loc>
+    <lastmod>2024-09-18T11:58:26.107Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghasebe.github.io/posts/welcome/index.html</loc>
+    <lastmod>2024-09-18T11:58:25.766Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghasebe.github.io/teaching.html</loc>
+    <lastmod>2024-09-18T11:58:25.378Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghasebe.github.io/posts/post-with-code/index.html</loc>
+    <lastmod>2024-09-18T11:58:25.575Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghasebe.github.io/index.html</loc>
+    <lastmod>2024-09-18T11:58:25.945Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-4/index.html</loc>
+    <lastmod>2024-09-18T11:58:26.282Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-2/index.html</loc>
+    <lastmod>2024-09-18T11:58:26.638Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-13/index.html</loc>
+    <lastmod>2024-09-18T11:58:26.991Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-12/index.html</loc>
+    <lastmod>2024-09-18T11:58:27.357Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-7/index.html</loc>
+    <lastmod>2024-09-18T11:58:27.725Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-1/index.html</loc>
+    <lastmod>2024-09-18T11:58:28.081Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghasebe.github.io/teaching/anp-ss24/weeks/week-10/index.html</loc>
+    <lastmod>2024-09-18T11:58:28.430Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ghasebe.github.io/teaching/and-fs23/index.html</loc>
+    <lastmod>2024-09-18T11:58:30.739Z</lastmod>
   </url>
 </urlset>
