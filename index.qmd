@@ -16,4 +16,4 @@ I’m currently working as a teaching assistant for **Algorithms and Data Struct
 
 I always try to make my exercise classes engaging and fun. This site is where I share materials, exercises, and resources.
 
-Feel free to contact me at georg dot hasebe at inf dot ethz dot ch.
+Feel free to contact me at `georg dot hasebe at inf dot ethz dot ch`.
