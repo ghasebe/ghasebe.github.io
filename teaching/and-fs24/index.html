@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-sheet','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: [],
     };
@@ -143,7 +143,27 @@ ul.task-list li input[type="checkbox"] {
   </div>
   </header>
 
+<ul class="nav nav-tabs" role="tablist">
+  <li class="nav-item" role="presentation">
+    <a class="nav-link active" data-bs-toggle="tab" href="#information" aria-selected="true" role="tab">Information</a>
+  </li>
+  <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Links</a>
+    <div class="dropdown-menu" style="">
+      <a class="dropdown-item" href="https://moodle-app2.let.ethz.ch/course/view.php?id=23362">Moodle</a>
+    </div>
+  </li>
+</ul>
+<div id="myTabContent" class="tab-content">
+  <div class="tab-pane fade active show" id="information" role="tabpanel">
+    <p>Hi, I'm Georg!👋🏼</p>
+    <p>I teach the <strong>Fokusgruppe (German)</strong> on <strong>Mondays at 09:15 in <a href="https://ethz.ch/staffnet/en/service/rooms-and-buildings/rectorate-rooms/pictures/eta-etf-etz.html#par_slideshow_9">ETZ H 91</a></strong>.
+  </p></div>
+</div>
 <p><em>coming soon.</em></p>
+<!-- ### Class Material
+::: {#class-material}
+::: -->
 
 
 
@@ -388,6 +408,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
 });
+</script>
+<script src="https://giscus.app/client.js" data-repo="ghasebe/ghasebe.github.io" data-repo-id="R_kgDOKv5lLQ" data-category="General" data-category-id="DIC_kwDOKv5lLc4CbGy3" data-mapping="title" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="light" data-lang="en" crossorigin="anonymous" async="">
 </script>
 </div> <!-- /content -->
 
