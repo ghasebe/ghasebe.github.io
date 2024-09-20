@@ -17,9 +17,9 @@ listing:
   image-placeholder: "placeholder.png"
 page-layout: article 
 title-block-banner: false 
-comments:
-  giscus: 
-    repo: ghasebe/ghasebe.github.io
+# comments:
+#   giscus: 
+#     repo: ghasebe/ghasebe.github.io
 ---
 
 ```{=html}
