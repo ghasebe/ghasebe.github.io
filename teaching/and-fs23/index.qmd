@@ -20,9 +20,9 @@ listing:
   filter-ui: false 
 page-layout: article 
 title-block-banner: false 
-comments:
-  giscus: 
-    repo: ghasebe/ghasebe.github.io
+# comments:
+#   giscus: 
+#     repo: ghasebe/ghasebe.github.io
 ---
 
 If you would like to have access to files from this semester, please contact me on `georg dot hasebe at inf dot ethz dot ch`.
