@@ -10,11 +10,10 @@
 page-layout: article 
 # title-block-banner: true
 ---
+Hi, I’m Georg, a BSc student in Computer Science at ETH Zurich.
 
-Hi, I'm Georg!👋🏼
+I’m currently a teaching assistant for Algorithms and Data Structures in Fall 2024. Previously, I’ve also been a TA for Algorithms and Probability (Spring 2024) and Algorithms and Data Structures (Fall 2023).
 
-I'm a BSc computer science student and teaching assistant at ETH Zurich.
+I always try to make my exercise classes engaging and fun. This site is where I share materials, exercises, and other resources.
 
-Contact me at `georg dot hasebe at inf dot ethz dot ch`.
-
-This website was made using [Quarto](https://quarto.org).
+Feel free to contact me at `georg dot hasebe at inf dot ethz dot ch`.
