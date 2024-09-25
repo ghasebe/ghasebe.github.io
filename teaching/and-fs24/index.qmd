@@ -42,7 +42,9 @@ title-block-banner: false
 </div>
 ```
 
-*coming soon.*
+### Week 1
+
+- [Math Basics for Asymptotic Analysis](math_recap.pdf)
 
 <!-- ### Class Material
 ::: {#class-material}
