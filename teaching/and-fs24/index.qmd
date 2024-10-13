@@ -42,7 +42,7 @@ title-block-banner: false
 </div>
 ```
 
-### Week 1
+### Week 2
 
 - [Math Basics for Asymptotic Analysis](math_recap.pdf)
 

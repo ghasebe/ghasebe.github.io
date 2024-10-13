@@ -1,0 +1,12 @@
+---
+title: "Week 14"
+date: "2023-12-18"
+published-title: "" 
+sheet: 12
+---
+
+| Title         | File |
+|---------------|:----:|
+| Sheet 12 Notes | [PDF](notes-s12.pdf)     |
+| Lesson Slides | [PDF](w13.pdf)     |
+| Exam Preperation | [PDF](exam-prep.pdf)     |
