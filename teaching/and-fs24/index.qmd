@@ -42,6 +42,11 @@ title-block-banner: false
 </div>
 ```
 
+### Week 6
+
+- [Height of Binary Decision Trees and Indeterminate Forms](w06.pdf)
+- [Algorithms Implementations](https://github.com/ghasebe/java-algorithms)
+
 ### Week 2
 
 - [Math Basics for Asymptotic Analysis](math_recap.pdf)
