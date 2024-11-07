@@ -42,6 +42,10 @@ title-block-banner: false
 </div>
 ```
 
+### Week 8
+
+- [Dynamic Progamming II In-Class Notes](week_8_in-class_notes.pdf)
+
 ### Week 6
 
 - [Height of Binary Decision Trees and Indeterminate Forms](w06.pdf)
