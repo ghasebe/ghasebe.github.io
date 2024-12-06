@@ -42,6 +42,23 @@ title-block-banner: false
 </div>
 ```
 
+### Week 13
+
+**Upcoming Session: Longest Palindromic Subsequence (Fall 2020 Exam)**
+
+Next Monday (9th December), we'll dedicate part of the exercise class to solving the DP problem Longest Palindromic Subsequence (Fall 2020 exam). If you have time, feel free to look at the problem and try implementing it yourself using the files I've provided -- but no worries if you don't, this is just meant to help you prepare at your own pace.
+
+After we cover the quiz solutions and the exercise sheet as usual, we'll work through this DP problem together, and I'll code the solution live once we've solved it.
+
+You can look up the solution in advance if you wanted to, but I highly recommend giving it a shot yourself first to get the most out of Monday's session and deepen your understanding of DP.
+
+In case you have questions, feel free to contact me.
+
+- [Longest Palindromic Subsequence Task Description](lps.pdf)
+- [Build It Yourself Locally](lps_code.zip)
+
+*The task description and files were taken from CodeExpert. On IntelliJ, I had to add an environment variable `ACTION=run` in the edit configurations to display the output of the `compareTo` method.*
+
 ### Week 8
 
 - [Dynamic Progamming II In-Class Notes](week_8_in-class_notes.pdf)
