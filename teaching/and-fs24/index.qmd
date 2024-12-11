@@ -44,6 +44,12 @@ title-block-banner: false
 
 ### Week 13
 
+- [DP and LPS Slides](lps_fs24.pdf)
+- [DP Summary](dp_summary.pdf)
+- [LPS Code](https://gist.github.com/ghasebe/00b34719f49e9b808307be44dbfb832d)
+
+---
+
 **Upcoming Session: Longest Palindromic Subsequence (Fall 2020 Exam)**
 
 Next Monday (9th December), we'll dedicate part of the exercise class to solving the DP problem *Longest Palindromic Subsequence* (Fall 2020 exam). If you have time, feel free to look at the problem and try implementing it yourself using the files I've provided -- but no worries if you don't, this is just meant to help you prepare at your own pace.
