@@ -42,6 +42,10 @@ title-block-banner: false
 </div>
 ```
 
+### Week 14
+
+- [Matrices and Graphs](w14.pdf)
+
 ### Week 13
 
 - [DP and LPS Slides](lps_fs24.pdf)
