@@ -11,10 +11,8 @@ page-layout: article
 # title-block-banner: true
 ---
 
-Hi, I’m Georg, a BSc student in Computer Science at ETH Zurich.
+Hi, I’m Georg Hasebe, a BSc student in Computer Science at ETH Zurich.
 
-I’m currently working as a teaching assistant for **Algorithms and Data Structures** in Fall 2024. Previously, I’ve also been a TA for **Algorithms and Probability** (Spring 2024) and **Algorithms and Data Structures** (Fall 2023), where I was fortunate enough to be selected among the [favorite TAs](https://inf.ethz.ch/news-and-events/spotlights/infk-news-channel/2023/12/vis-teaching-awards.html).
+I’m currently working as a teaching assistant for **Algorithms and Data Structures** in Fall 2024.
 
-I always try to make my exercise classes engaging and fun. This site is where I share materials, exercises, and resources.
-
-Feel free to contact me at `georg dot hasebe at inf dot ethz dot ch`.
+Previously, I’ve also been a TA for **Algorithms and Probability** (Spring 2024) and **Algorithms and Data Structures** (Fall 2023), where I was fortunate enough to be selected among the [favorite TAs](https://inf.ethz.ch/news-and-events/spotlights/infk-news-channel/2023/12/vis-teaching-awards.html).
