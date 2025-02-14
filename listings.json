@@ -4,6 +4,19 @@
     "items": []
   },
   {
+    "listing": "/teaching/anp-ss25/index.html",
+    "items": []
+  },
+  {
+    "listing": "/teaching.html",
+    "items": [
+      "/teaching/anp-ss25/index.html",
+      "/teaching/and-fs24/index.html",
+      "/teaching/anp-ss24/index.html",
+      "/teaching/and-fs23/index.html"
+    ]
+  },
+  {
     "listing": "/teaching/anp-ss24/index.html",
     "items": [
       "/teaching/anp-ss24/weeks/week-14/index.html",
@@ -19,14 +32,6 @@
       "/teaching/anp-ss24/weeks/week-3/index.html",
       "/teaching/anp-ss24/weeks/week-2/index.html",
       "/teaching/anp-ss24/weeks/week-1/index.html"
-    ]
-  },
-  {
-    "listing": "/teaching.html",
-    "items": [
-      "/teaching/and-fs24/index.html",
-      "/teaching/anp-ss24/index.html",
-      "/teaching/and-fs23/index.html"
     ]
   },
   {

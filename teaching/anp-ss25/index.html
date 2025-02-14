@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Teaching Assistant at ETH Zurich.">
 
-<title>Teaching – ghasebe</title>
+<title>Algorithms and Probability – ghasebe</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +24,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,20 +72,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-class-material .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-description','listing-semester',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: [],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-class-material'] = new List('listing-class-material', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -128,17 +129,17 @@ window.Quarto = {
 };
 </script>
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">ghasebe</span>
     </a>
   </div>
@@ -149,7 +150,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./teaching.html" aria-current="page"> 
+    <a class="nav-link" href="../../teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
 </ul>
@@ -160,119 +161,50 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
-      <h1 class="title">Teaching</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><h1 class="title display-7">Algorithms and Probability</h1></header>
+
+<header id="title-block-header">
+  
+  <!--     
+   -->
+    <div class="semester">
+    Spring Semester 2025
+  </div>
+  </header>
+
+
+<ul class="nav nav-tabs" role="tablist">
+  <li class="nav-item" role="presentation">
+    <a class="nav-link active" data-bs-toggle="tab" href="#information" aria-selected="true" role="tab">Information</a>
+  </li>
+  <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Links</a>
+    <div class="dropdown-menu" style="">
+      <a class="dropdown-item" href="https://moodle-app2.let.ethz.ch/course/view.php?id=23362">Moodle</a>
+    </div>
+  </li>
+</ul>
+<div id="myTabContent" class="tab-content">
+  <div class="tab-pane fade active show" id="information" role="tabpanel">
+    <p>Hi, I'm Georg!👋🏼</p>
+    <p>I teach <strong>Group 9 (German)</strong> on <strong>Thursdays at 16:15 in <a href="https://ethz.ch/staffnet/en/service/rooms-and-buildings/rectorate-rooms/pictures/hg.html#par_slideshow_30">HG G 26.5</a></strong>.
+  </p></div>
+</div>
+<!-- ### Class Material
+::: {#class-material}
+::: -->
 
 
 
 
+<div class="quarto-listing quarto-listing-container-grid" id="listing-class-material">
+<div class="list grid quarto-listing-cols-3">
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1739550754649" data-listing-reading-time-sort="1" data-listing-word-count-sort="95">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./teaching/anp-ss25/index.html" class="no-external">Algorithms and Probability</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./teaching/anp-ss25/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./teaching/anp-ss25/index.html" class="no-external">Teaching Assistant at ETH Zurich.</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./teaching/anp-ss25/index.html" class="no-external"></a></p><a href="./teaching/anp-ss25/index.html" class="no-external">
-<div class="metadata-value listing-semester">
-Spring Semester 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1734434543020" data-listing-reading-time-sort="2" data-listing-word-count-sort="313">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./teaching/and-fs24/index.html" class="no-external">Algorithms and Data Structures</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./teaching/and-fs24/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./teaching/and-fs24/index.html" class="no-external">Teaching Assistant at ETH Zurich.</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./teaching/and-fs24/index.html" class="no-external"></a></p><a href="./teaching/and-fs24/index.html" class="no-external">
-<div class="metadata-value listing-semester">
-Fall Semester 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-file-modified-sort="1726862646458" data-listing-reading-time-sort="1" data-listing-word-count-sort="91">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./teaching/anp-ss24/index.html" class="no-external">Algorithms and Probability</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./teaching/anp-ss24/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./teaching/anp-ss24/index.html" class="no-external">Teaching Assistant at ETH Zurich.</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./teaching/anp-ss24/index.html" class="no-external"></a></p><a href="./teaching/anp-ss24/index.html" class="no-external">
-<div class="metadata-value listing-semester">
-Spring Semester 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-file-modified-sort="1728845464114" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./teaching/and-fs23/index.html" class="no-external">Algorithms and Data Structures</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./teaching/and-fs23/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./teaching/and-fs23/index.html" class="no-external">Teaching Assistant at ETH Zurich.</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./teaching/and-fs23/index.html" class="no-external"></a></p><a href="./teaching/and-fs23/index.html" class="no-external">
-<div class="metadata-value listing-semester">
-Fall Semester 2023
-</div>
-</a>
-</div>
-</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
