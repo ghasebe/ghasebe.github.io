@@ -13,6 +13,6 @@ page-layout: article
 
 Hi, I'm Georg Hasebe, a BSc student in Computer Science at ETH Zurich.
 
-I'm currently working as a teaching assistant for **Algorithms and Data Structures** in Fall 2024.
+I'm currently working as a teaching assistant for **Algorithms and Probability** in Spring 2025.
 
-Previously, I've also been a TA for **Algorithms and Probability** (Spring 2024) and **Algorithms and Data Structures** (Fall 2023), where I was fortunate enough to be selected among the [favorite TAs](https://inf.ethz.ch/news-and-events/spotlights/infk-news-channel/2023/12/vis-teaching-awards.html).
+Previously, I've also been a TA for **Algorithms and Probability** (Spring 2024) and **Algorithms and Data Structures** (Fall 2023, Fall 2024), where I was fortunate enough to be selected among the [favorite TAs](https://inf.ethz.ch/news-and-events/spotlights/infk-news-channel/2023/12/vis-teaching-awards.html).
