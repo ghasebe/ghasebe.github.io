@@ -46,9 +46,12 @@ title-block-banner: false
 ### Week 3
 
 - [Week 3 Slides](anp-w03-25_presented.pdf)
-- [Hall's Theorem Slides (Not Covered)](anp-w03-25_hall.pdf)
 - [In-Class Matching Proof](anp-w03-25_notes_matching.pdf)
-- [Supplementary Hall's Theorem Proof Notes](anp-w03-25_notes_hall.pdf)
+
+**Additional Material:**
+
+- [Hall's Theorem Slides (Not Covered)](anp-w03-25_hall.pdf)
+- [Hall's Theorem Proof Notes (Not Covered)](anp-w03-25_notes_hall.pdf)
 
 ### Week 2
 
