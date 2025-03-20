@@ -43,6 +43,15 @@ title-block-banner: false
 </div>
 ```
 
+### Week 5
+
+- [Week 5 Slides](anp-w05-25_presented.pdf)
+- [In-Class Probability Exercises Solutions](anp-w05-25_notes.pdf)
+
+### Week 4
+
+- [Week 4 Slides](anp-w04-25_presented.pdf)
+
 ### Week 3
 
 - [Week 3 Slides](anp-w03-25_presented.pdf)
