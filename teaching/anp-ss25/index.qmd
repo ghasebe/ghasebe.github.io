@@ -43,6 +43,46 @@ title-block-banner: false
 </div>
 ```
 
+### Week 15
+
+Ascension Day.
+
+### Week 14
+
+*coming soon.*
+
+### Week 13
+
+- [Week 13 Slides](anp-w13-25_presented.pdf)
+
+### Week 12
+
+- [Week 12 Slides](anp-w12-25_presented.pdf)
+
+### Week 11
+
+Labour Day.
+
+### Week 10
+
+Week after Easter.
+
+### Week 9
+
+No slides.
+
+### Week 8
+
+- [Week 8 Slides](anp-w08-25_presented.pdf)
+
+### Week 7
+
+- [Week 7 Slides](anp-w07-25_presented.pdf)
+
+### Week 6
+
+- [Week 6 Slides](anp-w06-25_presented.pdf)
+
 ### Week 5
 
 - [Week 5 Slides](anp-w05-25_presented.pdf)
