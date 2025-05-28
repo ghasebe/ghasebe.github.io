@@ -49,6 +49,7 @@ Ascension Day.
 
 ### Week 14
 
+- [Problem Description (Game of Skill)](a-game-of-skill.pdf)
 - [Programming Solution](https://gist.github.com/ghasebe/8b8e0be1d8d8b581a213433b35787f40)
 
 ### Week 13
