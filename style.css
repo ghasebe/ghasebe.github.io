@@ -1,22 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Georg Hasebe</title>
-    
-    <meta name="description" content="Georg Hasebe's website">
-    <meta name="author" content="Georg Hasebe">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+body {
+    font-family: 'Palatino', serif;
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 0;
+    padding: 2rem 1rem;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
 
-    <link rel="stylesheet" href="style.css">
-</head>
+main {
+    max-width: 32rem;
+    width: 100%;
+}
 
-<body>
-    <main>
-        <h1>Georg Hasebe</h1>
-        <p>I study CS at ETH Zurich. I'm currently working on my BSc thesis in evolutionary algorithms.</p>
-        <p>In the past, I've enjoyed working as a teaching assistant for algorithms courses.</p>
-        <p>Connect with me on <a href="https://www.linkedin.com/in/ghasebe/">linkedin</a>, or at gy dot hasebe at gmail dot com.</p> 
-    </main>
-</body>
-</html>
+h1 {
+    font-size: 2em;
+    margin-bottom: 1rem;
+    font-weight: 400;
+}
+
+p {
+    margin-bottom: 1rem;
+}
+
+a {
+    color: #2c5282;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #1a365d;
+    text-decoration: underline;
+}
