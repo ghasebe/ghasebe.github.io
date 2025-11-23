@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Georg Hasebe</title>
+    
+    <meta name="description" content="Georg Hasebe's website">
+    <meta name="author" content="Georg Hasebe">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <main>
+        <h1>Georg Hasebe</h1>
+        <p>I study CS at ETH Zurich. I'm currently working on my BSc thesis in evolutionary algorithms.</p>
+        <p>In the past, I've enjoyed working as a teaching assistant for algorithms courses.</p>
+        <p>Connect with me on <a href="https://www.linkedin.com/in/ghasebe/">linkedin</a>, or at gy dot hasebe at gmail dot com.</p> 
+    </main>
+</body>
+</html>
