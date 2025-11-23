@@ -1,9 +1,9 @@
 body {
     font-family: 'Palatino', serif;
     font-size: 18px;
-    line-height: 1.6;
+    line-height: 1.5;
     margin: 0;
-    padding: 2rem 1rem;
+    padding: 4rem 2rem;
     display: flex;
     justify-content: center;
 }
@@ -13,14 +13,8 @@ main {
     width: 100%;
 }
 
-h1 {
-    font-size: 2em;
-    margin-bottom: 1rem;
+h1, h2 {
     font-weight: 400;
-}
-
-p {
-    margin-bottom: 1rem;
 }
 
 a {
@@ -31,4 +25,9 @@ a {
 a:hover {
     color: #1a365d;
     text-decoration: underline;
+}
+
+ul {
+    padding-left: 1.2rem;
+    list-style-type: square;
 }
