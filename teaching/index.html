@@ -15,6 +15,43 @@
     <main>
         <h1>Teaching</h1>
         <p>Contact me at ghasebe at ethz dot com.</p>
+                <h2>Algorithm Visualizations</h2>
+        <div class="gallery-container">
+            <div class="gallery">
+                <figure>
+                    <img src="slide1.png" alt="Algorithm visualization 1">
+                    <figcaption>Caption 1</figcaption>
+                </figure>
+                <figure>
+                    <img src="slide2.png" alt="Algorithm visualization 2">
+                    <figcaption>Caption 2</figcaption>
+                </figure>
+                <figure>
+                    <img src="slide3.png" alt="Algorithm visualization 3">
+                    <figcaption>Caption 3</figcaption>
+                </figure>
+            </div>
+            <div class="gallery-dots">
+                <span class="dot active"></span>
+                <span class="dot"></span>
+                <span class="dot"></span>
+            </div>
+        </div>
+        
+        <script>
+            const gallery = document.querySelector('.gallery');
+            const dots = document.querySelectorAll('.dot');
+            
+            gallery.addEventListener('scroll', () => {
+                const scrollLeft = gallery.scrollLeft;
+                const itemWidth = gallery.querySelector('figure').offsetWidth + 16; // 16 = gap
+                const activeIndex = Math.round(scrollLeft / itemWidth);
+                
+                dots.forEach((dot, index) => {
+                    dot.classList.toggle('active', index === activeIndex);
+                });
+            });
+        </script>
         <h2>Previous Semesters</h2>
         <ul>
             <li>Spring 2025: Algorithms and Probability</li>
