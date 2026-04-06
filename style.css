@@ -1,7 +1,9 @@
 body {
-    font-family: 'Palatino', serif;
-    font-size: 17px;
-    line-height: 1.5;
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 19px;
+    line-height: 1.7;
+    color: #1a1a1a;
+    background-color: #fafafa;
     margin: 0;
     padding: 2rem 2rem;
     display: flex;
@@ -9,7 +11,7 @@ body {
 }
 
 main {
-    max-width: 32rem;
+    max-width: 34rem;
     width: 100%;
 }
 
@@ -18,11 +20,12 @@ h1, h2 {
 }
 
 a {
-    color: #2c5282;
+    color: #4a6fa5;
+    transition: color 0.2s ease;
 }
 
 a:hover {
-    color: #1a365d;
+    color: #1a1a1a;
 }
 
 ul {
